@@ -1,4 +1,4 @@
 # diya
 this is my first repository
 <br>
-Author- Diya jangid
+Author- Diya jangid(apna college)
